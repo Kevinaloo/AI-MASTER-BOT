@@ -1,0 +1,15 @@
+# Supabase
+SUPABASE_URL=https://xuhodkbusnprpwtkazmc.supabase.co
+SUPABASE_SERVICE_KEY=your_service_role_key_here
+
+# Binance (free account at binance.com)
+BINANCE_API_KEY=your_binance_api_key
+BINANCE_SECRET=your_binance_secret
+
+# News API (free at newsapi.org)
+NEWS_API_KEY=your_news_api_key
+
+# Bot settings
+TRADE_AMOUNT_USD=10
+MIN_CONFIDENCE=65
+DRY_RUN=true
